@@ -1,0 +1,47 @@
+[0114/230607:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0114/230651:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0114/231032:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0114/231131:ERROR:ipc_channel_win.cc(171)] pipe error: 109
+[0114/231131:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0114/231842:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0114/231926:ERROR:ipc_channel_win.cc(171)] pipe error: 109
+[0114/231926:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0114/232407:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0114/232421:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0114/234859:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0114/235107:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0114/235304:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0115/010039:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0115/010045:INFO:CONSOLE(0)] "The Content-Security-Policy directive 'child-src' is implemented behind a flag which is currently disabled.
+", source: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/5410478777720972839/GDN_08Jan2019_TNRGMC_300x250.html#t=5483347281460573467&p=https%3A%2F%2Fads.google.com (0)
+[0115/010045:INFO:CONSOLE(0)] "The Content-Security-Policy directive 'form-action' is implemented behind a flag which is currently disabled.
+", source: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/5410478777720972839/GDN_08Jan2019_TNRGMC_300x250.html#t=5483347281460573467&p=https%3A%2F%2Fads.google.com (0)
+[0115/010046:INFO:CONSOLE(8)] "Uncaught SyntaxError: Unexpected identifier", source: https://optimize.urekamedia.com/impstrack_170215.js?v=20180504 (8)
+[0115/010046:INFO:CONSOLE(0)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://ads.google.com') does not match the recipient window's origin ('https://dictionary.cambridge.org').", source:  (0)
+[0115/010049:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0115/010050:INFO:CONSOLE(0)] "'webkitIDBCursor' is deprecated. Please use 'IDBCursor' instead.", source:  (0)
+[0115/010050:INFO:CONSOLE(0)] "'webkitIDBFactory' is deprecated. Please use 'IDBFactory' instead.", source:  (0)
+[0115/010101:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0115/010103:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0115/010103:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0115/010103:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0115/010103:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0115/010103:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0115/010103:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0115/010103:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0115/010103:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0115/010103:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0115/010103:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0115/010103:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0115/010103:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0115/010103:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0115/010103:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0115/010103:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0115/010103:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0115/010103:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0115/010142:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0115/010144:INFO:CONSOLE(2)] "js base ...", source: http://localhost:8000/js.js (2)
+[0115/010154:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0115/010234:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0115/010237:ERROR:ipc_channel_win.cc(171)] pipe error: 109
+[0115/010237:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
